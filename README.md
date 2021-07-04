@@ -1,4 +1,4 @@
-# Estrutura de Dados
+# Estrutura de Dados | GAMA ACADEMY
 
 ### Conceitos sobre pilha, fila e lista
 
